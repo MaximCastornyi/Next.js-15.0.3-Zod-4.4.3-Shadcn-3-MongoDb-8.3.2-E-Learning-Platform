@@ -1,3 +1,11 @@
+## E-Learning Platform
+This app is an educational management platform. Instructors create courses, provide them with video materials, and create lectures and quizzes. Students can join courses and take quizzes. They can also leave feedback on courses and lectures. Upon completion of a course, students receive a certificate in PDF format. All test accounts have the password `123456789`. Zod is used as the state manager.
+
+<img width="1493" height="760" alt="Screenshot 2026-05-20 114839" src="https://github.com/user-attachments/assets/f0daa2f6-7957-4610-887a-9bb7a75d7227" />
+<br/><br/>
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
