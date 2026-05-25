@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "663a0abdbfe65e5778eedf66"
+  },
+  "created_at": {
+    "$date": "2024-05-01T10:00:00.000Z"
+  },
+  "modified_at": {
+    "$date": "2024-05-01T10:25:00.000Z"
+  },
+  "state": "started",
+  "lastTime": 1500,
+  "lesson": {
+    "$oid": "663a0806bfe65e5778eedf35"
+  },
+  "module": {
+    "$oid": "663a0893bfe65e5778eedf3d"
+  },
+  "user": {
+    "$oid": "663a0b36bfe65e5778eedf7e"
+  }
+}]

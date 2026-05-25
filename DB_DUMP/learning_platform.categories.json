@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "664813cc6fe803e9128d7fae"
+  },
+  "title": "Development",
+  "description": "Developments Courses",
+  "thumbnail": "development.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0c3dba85bf427acf506d1e"
+  },
+  "title": "Design",
+  "description": "Design Courses",
+  "thumbnail": "design.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0c3e5585bf427acf506d20"
+  },
+  "title": "Marketing",
+  "description": "Marketing Courses",
+  "thumbnail": "marketing.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0c3e8885bf427acf506d22"
+  },
+  "title": "IT & Software",
+  "description": "IT & Software Courses",
+  "thumbnail": "it_software.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0c3f3a85bf427acf506d24"
+  },
+  "title": "Personal Development",
+  "description": "Personal Development Courses",
+  "thumbnail": "personal_development.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0c3f7885bf427acf506d28"
+  },
+  "title": "Business",
+  "description": "Business Courses",
+  "thumbnail": "programming.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0c3fa085bf427acf506d2a"
+  },
+  "title": "Photography",
+  "description": "Photography Courses",
+  "thumbnail": "photography.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0c3fbd85bf427acf506d2c"
+  },
+  "title": "Music",
+  "description": "Music Courses",
+  "thumbnail": "music.jpg",
+  "__v": 0
+}]

@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "663a06e7bfe65e5778eedf2a"
+  },
+  "firstName": "Maxim",
+  "lastName": "Castornyi",
+  "password": "123456789",
+  "email": "net.devs@gmail.com",
+  "phone": "+1234567890",
+  "role": "instructor",
+  "bio": "Experienced educator passionate about fostering student learning and development.",
+  "socialMedia": {
+    "twitter": "@johndoe",
+    "linkedin": "linkedin.com/in/johndoe",
+    "facebook": "facebook.com/johndoe"
+  },
+  "profilePicture": "https://i.pravatar.cc",
+  "designation": "Senior Software Engineer, Dell Inc."
+},
+{
+  "_id": {
+    "$oid": "663a0b36bfe65e5778eedf7e"
+  },
+  "password": "$2b$05$CDNwDUm1vtpit6m3tIYwg.RXQd8/7DFlu.AJiNySbfSn50QViul7e",
+  "email": "michael.brown@example.com",
+  "phone": "+4455667788",
+  "role": "Student",
+  "bio": "Passionate about finance and investing.",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/michaelbrown"
+  },
+  "designation": "Junior Develeoper, Acme",
+  "firstName": "Michael",
+  "lastName": "Brown",
+  "profilePicture": "https://i.pravatar.cc"
+},
+{
+  "_id": {
+    "$oid": "664accf41387e2ad2e8be488"
+  },
+  "password": "securepassword",
+  "email": "alex.brown@example.com",
+  "phone": "+42255667788",
+  "role": "Student",
+  "bio": "I love programming, I eat JavaScript",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/alexbrown"
+  },
+  "designation": "Junior Develeoper, OpenText",
+  "firstName": "Alex",
+  "lastName": "Brown",
+  "profilePicture": "https://i.pravatar.cc"
+},
+{
+  "_id": {
+    "$oid": "664adddc1387e2ad2e8be4a0"
+  },
+  "password": "securepassword",
+  "email": "fatima.shekh@example.com",
+  "phone": "+88255667788",
+  "role": "Student",
+  "bio": "I love coding",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/fatima"
+  },
+  "designation": "Junior Develeoper, Microsoft",
+  "firstName": "Fatima",
+  "lastName": "Shekh",
+  "profilePicture": "https://i.pravatar.cc"
+},
+{
+  "_id": {
+    "$oid": "6a0ee64267851f62abdddd33"
+  },
+  "firstName": "Nets",
+  "lastName": "Devs",
+  "password": "$2b$05$CDNwDUm1vtpit6m3tIYwg.RXQd8/7DFlu.AJiNySbfSn50QViul7e",
+  "email": "nets.devs@gmail.com",
+  "role": "instructor",
+  "bio": "Build 3 Apps in One Monorepo (Fullstack SaaS with Next.js 16 & Turborepo)\" на YouTube",
+  "profilePicture": "https://i.pravatar.cc",
+  "designation": "",
+  "__v": 0
+}]

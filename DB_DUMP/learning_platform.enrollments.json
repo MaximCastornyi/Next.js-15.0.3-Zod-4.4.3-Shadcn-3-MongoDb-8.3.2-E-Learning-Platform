@@ -1,0 +1,215 @@
+[{
+  "_id": {
+    "$oid": "663a0a2ebfe65e5778eedf60"
+  },
+  "enrollment_date": "2024-04-20",
+  "status": "complete",
+  "completion_date": "2024-05-15",
+  "method": "paypal",
+  "course": {
+    "$oid": "6648184a6fe803e9128d7fba"
+  },
+  "student": {
+    "$oid": "663a0b36bfe65e5778eedf7e"
+  }
+},
+{
+  "_id": {
+    "$oid": "664acbd81387e2ad2e8be486"
+  },
+  "enrollment_date": "2024-04-20",
+  "status": "complete",
+  "completion_date": "2024-05-15",
+  "method": "stripe",
+  "course": {
+    "$oid": "664aca881387e2ad2e8be484"
+  },
+  "student": {
+    "$oid": "664accf41387e2ad2e8be488"
+  }
+},
+{
+  "_id": {
+    "$oid": "664adedb1387e2ad2e8be4a4"
+  },
+  "enrollment_date": "2024-04-20",
+  "status": "complete",
+  "completion_date": "2024-05-15",
+  "method": "stripe",
+  "course": {
+    "$oid": "664aca881387e2ad2e8be484"
+  },
+  "student": {
+    "$oid": "664adddc1387e2ad2e8be4a0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0eedc167851f62abdddd34"
+  },
+  "enrollment_date": {
+    "$date": "2026-05-21T11:34:25.475Z"
+  },
+  "status": "not-started",
+  "method": "stripe",
+  "course": {
+    "$oid": "664aca881387e2ad2e8be484"
+  },
+  "student": {
+    "$oid": "6a0ee64267851f62abdddd33"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0eee5b67851f62abdddd35"
+  },
+  "enrollment_date": {
+    "$date": "2026-05-21T11:36:59.246Z"
+  },
+  "status": "not-started",
+  "method": "stripe",
+  "course": {
+    "$oid": "664aca881387e2ad2e8be484"
+  },
+  "student": {
+    "$oid": "6a0ee64267851f62abdddd33"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0eee6e67851f62abdddd36"
+  },
+  "enrollment_date": {
+    "$date": "2026-05-21T11:37:18.694Z"
+  },
+  "status": "not-started",
+  "method": "stripe",
+  "course": {
+    "$oid": "664aca881387e2ad2e8be484"
+  },
+  "student": {
+    "$oid": "6a0ee64267851f62abdddd33"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0eee7767851f62abdddd37"
+  },
+  "enrollment_date": {
+    "$date": "2026-05-21T11:37:27.430Z"
+  },
+  "status": "not-started",
+  "method": "stripe",
+  "course": {
+    "$oid": "664aca881387e2ad2e8be484"
+  },
+  "student": {
+    "$oid": "6a0ee64267851f62abdddd33"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0eee8867851f62abdddd38"
+  },
+  "enrollment_date": {
+    "$date": "2026-05-21T11:37:44.728Z"
+  },
+  "status": "not-started",
+  "method": "stripe",
+  "course": {
+    "$oid": "664aca881387e2ad2e8be484"
+  },
+  "student": {
+    "$oid": "6a0ee64267851f62abdddd33"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0eef7d67851f62abdddd39"
+  },
+  "enrollment_date": {
+    "$date": "2026-05-21T11:41:49.164Z"
+  },
+  "status": "not-started",
+  "method": "stripe",
+  "course": {
+    "$oid": "664aca881387e2ad2e8be484"
+  },
+  "student": {
+    "$oid": "6a0ee64267851f62abdddd33"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0ef02667851f62abdddd3a"
+  },
+  "enrollment_date": {
+    "$date": "2026-05-21T11:44:38.726Z"
+  },
+  "status": "not-started",
+  "method": "stripe",
+  "course": {
+    "$oid": "664aca881387e2ad2e8be484"
+  },
+  "student": {
+    "$oid": "6a0ee64267851f62abdddd33"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0ef02667851f62abdddd3b"
+  },
+  "enrollment_date": {
+    "$date": "2026-05-21T11:44:38.776Z"
+  },
+  "status": "not-started",
+  "method": "stripe",
+  "course": {
+    "$oid": "664aca881387e2ad2e8be484"
+  },
+  "student": {
+    "$oid": "6a0ee64267851f62abdddd33"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0ef18467851f62abdddd3c"
+  },
+  "enrollment_date": {
+    "$date": "2026-05-21T11:50:28.785Z"
+  },
+  "status": "not-started",
+  "method": "stripe",
+  "course": {
+    "$oid": "664aca881387e2ad2e8be484"
+  },
+  "student": {
+    "$oid": "6a0ee64267851f62abdddd33"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a10255f715e022bdd99a77e"
+  },
+  "enrollment_date": {
+    "$date": "2026-05-22T09:43:59.852Z"
+  },
+  "status": "not-started",
+  "method": "stripe",
+  "course": {
+    "$oid": "6648184a6fe803e9128d7fba"
+  },
+  "student": {
+    "$oid": "663a0b36bfe65e5778eedf7e"
+  },
+  "__v": 0
+}]
