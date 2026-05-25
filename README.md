@@ -14,6 +14,20 @@ RESEND_API_KEY=<your_resend_api_key>
 
 NEXT_PUBLIC_BASE_URL=http://localhost:3000 
 ```
+
+Aftre this, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 <img width="1493" height="760" alt="Screenshot 2026-05-20 114839" src="https://github.com/user-attachments/assets/f0daa2f6-7957-4610-887a-9bb7a75d7227" />
 <br/><br/>
 <img width="1493" height="760" alt="Screenshot 2026-05-20 114902" src="https://github.com/user-attachments/assets/7340166f-82a7-4dec-95fc-c0954b83ecda" />
