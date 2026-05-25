@@ -1,17 +1,17 @@
 ## E-Learning Platform
 This app is an educational management platform. Instructors create courses, provide them with video materials, and create lectures and quizzes. Students can join courses and take quizzes. They can also leave feedback on courses and lectures. Upon completion of a course, students receive a certificate in PDF format. All test accounts have the password `123456789`. Zod is used as the state manager. The application is connected to Stripe. In the project's root directory, you need to create a .env file similar to the following example:
 
-```MONGODB_CONNECTION_STRING=mongodb://localhost:27017/learning_platform
-AUTH_SECRET=HF987Y23JSDKGSDFLKASOPI09SASFA```
+```bashMONGODB_CONNECTION_STRING=mongodb://localhost:27017/learning_platform
+AUTH_SECRET=HF987Y23JSDKGSDFLKASOPI09SASFA
 
-```#Stripe Keys
+#Stripe Keys
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=<your_stripe_key>
-STRIPE_SECRET_KEY=<your_stripe_key>```
+STRIPE_SECRET_KEY=<your_stripe_key>
 
 #Email throw Resend
 RESEND_API_KEY=<your_resend_api_key>
 
-NEXT_PUBLIC_BASE_URL=http://localhost:3000
+NEXT_PUBLIC_BASE_URL=http://localhost:3000 ```
 
 <img width="1493" height="760" alt="Screenshot 2026-05-20 114839" src="https://github.com/user-attachments/assets/f0daa2f6-7957-4610-887a-9bb7a75d7227" />
 <br/><br/>
