@@ -15,7 +15,7 @@ RESEND_API_KEY=<your_resend_api_key>
 NEXT_PUBLIC_BASE_URL=http://localhost:3000 
 ```
 
-Aftre this, run the development server:
+After this, run the development server:
 
 ```bash
 npm run dev
