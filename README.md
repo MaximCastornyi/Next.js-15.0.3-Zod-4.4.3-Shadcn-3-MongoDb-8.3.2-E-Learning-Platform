@@ -1,4 +1,4 @@
-## E-Learning Platform
+## E-Learning Platform 
 This app is an educational management platform. Instructors create courses, provide them with video materials, and create lectures and quizzes. Students can join courses and take quizzes. They can also leave feedback on courses and lectures. Upon completion of a course, students receive a certificate in PDF format. All test accounts have the password `123456789`. Zod is used as the state manager. The application is connected to Stripe. In the project's root directory, you need to create a .env file similar to the following example:
 
 ```bash
